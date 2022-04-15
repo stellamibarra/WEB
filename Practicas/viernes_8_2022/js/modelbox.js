@@ -1,0 +1,1 @@
+console.log("modelbox.js loaded modelbox script funciona");
