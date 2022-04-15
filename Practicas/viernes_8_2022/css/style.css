@@ -1,12 +1,12 @@
 h1{
-    color: aqua;
+    color: rgb(14, 29, 29);
     font-style: oblique;
 }
 h2{
-    color: blueviolet;
+    color: rgb(8, 19, 80);
 }
 body {
-    background-color: aqua;
+    background-color: rgb(227, 226, 231);
 }
 
 #unico {
