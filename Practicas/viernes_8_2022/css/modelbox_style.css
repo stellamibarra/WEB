@@ -2,9 +2,60 @@
 
 p {
     color: red;
+
     background-color: grey
 
 }
+
 .destacado{
+
 background-color: blue
+}
+
+.encabezado{
+    margin: 25px  auto; 
+    padding: 25px 1px 25px 5px;
+    border: 10px dotted black;
+    width: 10%;
+    
+    background-color: grey;
+    display: inline-block
+}
+
+ .boton{
+     background: darkgreen;
+     display: inline-block;
+ }
+
+.botonera{
+    margin: 0auto; 
+    padding: 0;
+    border: 0 dotted black;
+    width:80%;
+    
+    background-color: grey;
+    display: inline-block;
+}
+
+.contenido{
+    width: 80%;
+    background-color: cyan;
+    float: left;
+}
+
+
+.publicidades{
+   float: right;
+   width: 15%;
+ }
+
+  .publicidad{
+    width: 100px;
+    height:  100px;
+    margin: 0 auto;
+}
+
+.pie{
+    clear: both;
+    background-color: crimson;
 }
